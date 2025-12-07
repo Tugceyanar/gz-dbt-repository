@@ -13,7 +13,6 @@ sources:
           warn_after:
             count: 90
             period: day
-        
         columns:
           - name: pdt_id
             description: Urun ID'si
